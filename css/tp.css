@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: rgb(16, 7, 68);
+    background-color: burlywood;
+    font-weight: bolder;
+}
+table,th, td {
+    border: 2px solid blueviolet;
+    border-collapse: collapse;
+}
+td{
+    width: 90px;
+    font-size: 25px ;
+
+}
+th{
+    color:green;
+    font-size: 25px;
+    font-weight: bolder;
+}
+td:hover {
+background-color:lawngreen;
+}
